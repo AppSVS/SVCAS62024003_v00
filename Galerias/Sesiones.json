@@ -1,0 +1,20 @@
+[
+  {
+    "Carpeta": "Lisa/",
+    "TotalFotos": 3,
+    "Prefijo": "vk_Lisa_",
+    "Extension": ".jpg"
+  },
+  {
+    "Carpeta": "Denim/",
+    "TotalFotos": 8,
+    "Prefijo": "vk_Denim_",
+    "Extension": ".jpg"
+  },
+  {
+    "Carpeta": "Rumi/",
+    "TotalFotos": 9,
+    "Prefijo": "vk_Rumi_",
+    "Extension": ".jpg"
+  }
+]
