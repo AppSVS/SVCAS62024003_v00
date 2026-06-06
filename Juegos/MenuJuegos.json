@@ -3,7 +3,7 @@
   {
     "Id": 1,
     "NombreJuego": "Memorama",
-    "ImagenMiniatura": "icono_memorama.png"
+    "ImagenMiniatura": "https://raw.githubusercontent.com/AppSVS/SVCAS62024003_v00/refs/heads/main/Juegos/icono_memorama.jpg"
   },
   {
     "Id": 2,
