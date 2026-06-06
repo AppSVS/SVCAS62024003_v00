@@ -1,1 +1,13 @@
 
+[
+  {
+    "Id": 1,
+    "NombreJuego": "Memorama",
+    "ImagenMiniatura": "icono_memorama.png"
+  },
+  {
+    "Id": 2,
+    "NombreJuego": "Puzzle",
+    "ImagenMiniatura": "icono_puzzle.png"
+  }
+]
