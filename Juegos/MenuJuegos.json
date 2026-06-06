@@ -8,6 +8,6 @@
   {
     "Id": 2,
     "NombreJuego": "Puzzle",
-    "ImagenMiniatura": "icono_puzzle.png"
+    "ImagenMiniatura": "https://raw.githubusercontent.com/AppSVS/SVCAS62024003_v00/refs/heads/main/Juegos/icono_puzzle.png"
   }
 ]
